@@ -27,12 +27,10 @@
     },
     "config": {
         "sort-packages": true,
-        "optimize-autoloader": true,
-        "apcu-autoloader": true
+        "optimize-autoloader": true
     },
     "require": {
         "acquia/blt": "^10.0.0",
-        "acquia/drupal-spec-tool": "^2.0.0",
         "acquia/lightning": "^3.1.0",
         "drupal/acquia_connector": "^1.5.0",
         "drupal/acquia_purge": "^1.0-beta3",
